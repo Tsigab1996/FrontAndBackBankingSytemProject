@@ -1,0 +1,14 @@
+#address>ul{
+ 
+    font-size: 40px;
+    width: 700px;
+    font-style: italic;
+    font-weight: bolder;
+    color: aquamarine;
+    border-style: inset;
+    float: right;
+    list-style-type: none;
+    margin-top: 250px;
+    margin-left: 100px;
+    border-bottom-left-radius: 90px;
+}

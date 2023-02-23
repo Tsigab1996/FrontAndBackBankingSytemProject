@@ -1,0 +1,83 @@
+.header {
+  width: 1100px;
+  height: 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRbIt7NID-35duAgA6ljC_RPnrgkmCMgkj_w&usqp=CAU);
+  background-size: cover;
+  padding: 0 10%;
+  border-radius: 20px;
+  position: fixed;
+  position: relative;
+  position: static;
+  margin-top: 10px;
+  opacity: 0.8px;
+}
+
+.header ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  padding-left: 0px;
+}
+
+.header li {
+  margin: 0 1rem;
+  margin-right: 70px;
+}
+
+.header a {
+  text-decoration: none;
+  color: yellow;
+  font-size: 100px;
+  border-radius: 30px;
+  text-transform: capitalize;
+  font-size: 22px;
+  font-family: Nigerian;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.header a:hover,
+.header a:active {
+  color: rgb(231, 19, 19);
+  font-size: 40px;
+}
+
+.header button {
+  font-size: 100px;
+  background-color: #25ec13c7;
+  border: 1px solid #ffbb00;
+  padding: 0.5rem 1.5rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  color: #2c2922;
+}
+
+.header button:hover,
+.header button:active {
+  background-color: #d49011;
+  border-color: #ffa600;
+}
+
+#logout {
+  font-size: 40px;
+  background-color: red;
+  border-radius: 30px;
+  float: right;
+  font-family: Nigerian;
+  font-weight: bolder;
+  color: #f9d71a;
+  font-style: italic;
+  width: 150px;
+}
+
+#imgTsigab{
+  width: 100px;
+  margin-left: 600px;
+  margin-right: 100px;
+  border-radius:200px;
+  
+}

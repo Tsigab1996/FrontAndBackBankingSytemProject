@@ -1,0 +1,40 @@
+#head {
+    color: rgb(16, 239, 239);
+    font-size: 60px;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+}
+
+
+
+#para {
+    font-size: 31px;
+    color: rgb(128, 115, 247);
+    padding-left: 50px;
+    text-align: left;
+    padding-left: 80px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 3px;
+    border: 9px, dashed, rgb(203, 18, 18);
+    border-style: outset;
+    height: 120px;
+    border-radius: 20px;
+
+}
+
+#home>ul {
+    font-size: 25px;
+    color: rgb(253, 149, 149);
+    text-align: left;
+    font-style: italic;
+    font-weight: bolder;
+    word-spacing: 4px;
+    padding: 20px;
+    padding-left: 50px;
+    margin-top: 100px;
+    border-style: inset;
+    width: 800px;
+    border-top-right-radius: 250px;
+}

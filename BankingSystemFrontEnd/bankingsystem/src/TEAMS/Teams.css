@@ -1,0 +1,22 @@
+#teams{
+   
+    width: 400px;
+    font-size: 30px;
+    color: rgb(26, 228, 77);
+    font-family:Nigerian;
+    float: right;
+    margin: 10px;
+    padding: 20px;
+    border-style: inset;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 400px;
+}
+#teams>ul{
+    list-style: none;
+}
+#headTeam{
+    text-transform: capitalize;
+    text-align: center;
+    box-shadow: 0 30px 10px rgba(233, 223, 223, 0.2);
+    color: aqua;
+}
